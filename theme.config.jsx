@@ -1,5 +1,5 @@
 export default {
-    logo: <span>My Documentation</span>,
+    logo: <span>Stream Protocol Documentation</span>,
     project: {
       link: 'https://github.com/shuding/nextra'
     }
